@@ -5,27 +5,134 @@
 </p>
 
 # Gaetano Morelli
-### AI Evaluation Specialist | Technical Quality Auditor | QA Automation Enthusiast
 
-I am a high-precision AI Training Specialist and Electronics Technician with a C2 English proficiency level (EFSET Certified). My professional focus lies in the fine-tuning of Large Language Models (LLMs) through RLHF and SFT methodologies. I combine technical rigor with a QA mindset to audit complex AI outputs, specializing in hallucination detection, logical consistency, and safety alignment.
+### AI Evaluation Specialist | QA & Automation | Software & AI Systems in Progress
+
+I am an AI Evaluation Specialist and Electronics Technician with C2 English proficiency (EFSET Certified), focused on technical quality, logical consistency, and reliable AI outputs.
+
+My background combines AI evaluation, QA, technical support, and automation. I am currently expanding into software development and AI systems, building the foundations required to progress from programmer to builder, automation engineer, and eventually product-oriented systems developer.
 
 ---
 
-### 🚀 Current Focus & Learning Path
-- 🧠 **AI Content Evaluation (RLHF Specialist) @ Turing**: Conducting high-stakes quality audits on LLM outputs. Evaluating correctness, helpfulness, and harmlessness to eliminate technical hallucinations in generative models.
-- 📊 **Python for Data Science @ Talento Tech**: Mastering Python to bridge the gap between technical auditing and Data Science, focusing on data-driven insights and model performance.
-- 🤖 **QA Automation @ ProgramON (ChicosNet)**: Transitioning from Manual Testing to Automation using **Playwright** to design robust, scalable testing strategies.
+## 🚀 Current Focus
 
-### 🛠️ Technical Toolkit
-- **AI & Data**: RLHF, SFT, Prompt Engineering, Hallucination Detection, Systematic Content Review.
-- **QA & Testing**: Manual Testing, Bug Tracking (Jira, Azure DevOps), API Testing (Postman), SQL.
-- **Automation & Ops**: Discord automation (Webhooks, Carl-bot), Technical Support, and UX optimization.
-- **Engineering**: Electronics Technician background with experience in technical administration and hardware support.
+I am currently following a structured, project-based learning path focused on:
 
-### 📜 Education & Certifications
-- **Electronics Technician**: EET N° 3138 "Albert Einstein" - Salta.
-- **QA Manual Tester**: ChicosNet ProgramON (2025).
-- **Certifications**: SQL Basic (HackerRank) & Postman Student Expert.
+- 🐍 **Python & Software Development** — Building strong programming fundamentals, problem-solving ability, and clean code practices.
+- ⚙️ **Automation** — Learning to turn repetitive processes into reliable, reusable systems.
+- 🤖 **AI Systems** — Progressively moving toward LLM applications, AI automation, agents, and intelligent workflows.
+- 🧪 **QA & Testing** — Applying my existing quality-assurance mindset to software and automation projects.
+- 🏗️ **Systems & Product Building** — Learning how to turn technical capabilities into useful solutions, services, and eventually products.
+
+My approach is based on **learning by building**: fundamentals first, followed by increasingly realistic projects with potential for real-world applications.
+
+---
+
+## 🛠️ Technical Toolkit
+
+### AI & Evaluation
+- AI Output Evaluation
+- RLHF / SFT Concepts
+- Prompt Engineering
+- Hallucination Detection
+- Logical & Factual Consistency
+- Safety & Quality Evaluation
+
+### Programming & Automation
+- Python — currently developing
+- Automation Workflows
+- Webhooks
+- API Integration
+
+### QA & Testing
+- Manual Testing
+- Test Case Design
+- Bug Detection & Reporting
+- Jira
+- Azure DevOps
+- Postman
+- SQL
+
+### Tools & Platforms
+- Git / GitHub
+- VS Code
+- Notion
+- Discord Automation
+
+### Technical Background
+- Electronics Technician
+- Hardware Troubleshooting
+- Technical Support
+- Technical Administration
+
+---
+
+## 📚 Learning Roadmap
+
+My long-term goal is to develop from:
+
+**Programmer → Builder → Automation Builder → AI System Builder → Solutions Builder → Product Builder → Entrepreneur**
+
+The roadmap combines technical development with practical problem-solving and progressive real-world projects.
+
+Key areas include:
+
+- Python
+- Software Engineering
+- Git & GitHub
+- Backend Development
+- APIs
+- Automation
+- Cloud & Deployment
+- Artificial Intelligence
+- LLM Applications
+- RAG
+- AI Agents
+- Testing & Security
+- System Architecture
+- Product Development
+- SaaS
+- Business & Productization
+
+I am deliberately learning these areas progressively rather than trying to master every technology at once.
+
+---
+
+## 📂 Projects
+
+### Ultratutor
+
+My personal programming and systems-development learning repository.
+
+The project documents my progression from Python fundamentals toward software development, automation, AI systems, and eventually real-world technical projects.
+
+**Focus:** Python · Programming Fundamentals · Git · Automation · AI Systems
+
+---
+
+## 📜 Education & Certifications
+
+- **Electronics Technician** — EET N° 3138 "Albert Einstein", Salta
+- **QA Manual Tester** — ChicosNet ProgramON, 2025
+- **SQL Basic** — HackerRank
+- **Postman Student Expert**
+- **English C2** — EFSET Certified
+
+---
+
+## 🎯 Long-Term Direction
+
+I am interested in building systems that combine:
+
+**Software + Automation + AI + Quality + Business**
+
+My goal is not simply to learn individual technologies, but to develop the ability to:
+
+**Think → Program → Build → Automate → Solve Problems → Systematize → Scale**
+
+---
+
+
 
 ### 📊 GitHub Activity
 ![Gaetano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v0idbrn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
@@ -33,7 +140,6 @@ I am a high-precision AI Training Specialist and Electronics Technician with a C
 ---
 
 ### 📫 Connect with me
+Feel free to explore my repositories and follow my progression as I build increasingly complex software, automation, and AI projects.
 - **LinkedIn**: https://www.linkedin.com/in/gaemor
-- **Email**: sasukiikneel14@gmail.com
-
-*"If the code isn't on GitHub, it didn't happen."* 💻✨
+- **Email**: gaemor.tech@gmail.com
