@@ -132,13 +132,6 @@ My goal is not simply to learn individual technologies, but to develop the abili
 
 ---
 
-
-
-### 📊 GitHub Activity
-![Gaetano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v0idbrn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
----
-
 ### 📫 Connect with me
 Feel free to explore my repositories and follow my progression as I build increasingly complex software, automation, and AI projects.
 - **LinkedIn**: https://www.linkedin.com/in/gaemor
