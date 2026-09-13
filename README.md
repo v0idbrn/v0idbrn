@@ -1,4 +1,4 @@
-# Hi there, I'm v0idbrn 👋 
+# ~v0idbrn~ 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=v0idbrn&color=blue&style=flat-square" alt="v0idbrn" />
