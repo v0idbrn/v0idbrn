@@ -3,9 +3,9 @@
 <!-- Header Waving Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:2563eb&height=210&section=header&text=~v0idbrn~&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<!-- Typing SVG Subtitle -->
+<!-- Typing SVG Subtitle (Fix del 100%) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vcenter=true&width=550&lines=Data+Automation+Engineer;AI+Engineering+%26+Data+Science+Student;100%25+Offline+(Zero-Cloud)+Pipelines;QA+Testing+%26+RLHF+Evaluation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vcenter=true&width=550&lines=Data+Automation+Engineer;AI+Engineering+%26+Data+Science+Student;Zero-Cloud+Data+Pipelines;QA+Testing+%26+RLHF+Evaluation" alt="Typing SVG" />
 </a>
 
 <!-- Profile Views Counter & Status -->
@@ -40,7 +40,7 @@
 </ul>
 </td>
 <td width="40%" align="center" valign="middle">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1b3hhb3pjcGppZHRiZ3A4eG43N3ZpdWZzZnRybXAxY3RwczYxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4PPmmgcM/giphy.gif" width="100%" style="border-radius:8px;" alt="Cyber Aesthetic Animation" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius:8px;" alt="Cyber Aesthetic Animation" />
 </td>
 </tr>
 </table>
@@ -120,12 +120,12 @@
 
 <br />
 
-<!-- GitHub System Stats -->
+<!-- GitHub System Stats (Servidor espejo demodab) -->
 <h3>📊 System Statistics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=v0idbrn&show_icons=true&theme=tokyonight&hide_border=true" alt="v0idbrn stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=v0idbrn&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="v0idbrn languages" />
+  <img src="https://github-readme-stats.demolab.com/api?username=v0idbrn&show_icons=true&theme=tokyonight&hide_border=true" alt="v0idbrn stats" />
+  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=v0idbrn&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="v0idbrn languages" />
   <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=v0idbrn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
