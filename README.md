@@ -40,7 +40,7 @@
 </ul>
 </td>
 <td width="40%" align="center" valign="middle">
-<img src="https://i.pinimg.com/originals/9f/6e/82/9f6e820c7a523a579622956fbe2ee844.gif" width="100%" style="border-radius:8px;" alt="Cyber Aesthetic Animation" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1b3hhb3pjcGppZHRiZ3A4eG43N3ZpdWZzZnRybXAxY3RwczYxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4PPmmgcM/giphy.gif" width="100%" style="border-radius:8px;" alt="Cyber Aesthetic Animation" />
 </td>
 </tr>
 </table>
@@ -124,10 +124,10 @@
 <h3>📊 System Statistics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v0idbrn&show_icons=true&theme=dark&hide_border=true" alt="v0idbrn stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0idbrn&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="v0idbrn languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=v0idbrn&show_icons=true&theme=tokyonight&hide_border=true" alt="v0idbrn stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=v0idbrn&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="v0idbrn languages" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v0idbrn&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v0idbrn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
