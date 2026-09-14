@@ -251,8 +251,10 @@ SaaS / Business
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.demolab.com/api?username=v0idbrn&show_icons=true&theme=tokyonight&hide_border=true" alt="v0idbrn stats" />
-  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=v0idbrn&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="v0idbrn languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v0idbrn&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=v0idbrn&theme=tokyonight" width="48%" />
+  <br /><br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=v0idbrn&theme=tokyo-night" width="98%" />
   <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=v0idbrn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
